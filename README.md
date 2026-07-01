@@ -58,13 +58,12 @@ Durante este proyecto practiqué:
 - Uso del módulo `math`
 - Interacción con el usuario mediante un menú
 
-## Posibles mejoras
+### Próximas mejoras (Para practicar Python)
 
-- Validar que las medidas ingresadas sean positivas.
-- Permitir realizar varios cálculos sin reiniciar el programa.
-- Redondear los resultados a un número determinado de decimales.
-- Organizar el código utilizando funciones.
-- Agregar más figuras geométricas, como trapecios, rombos o polígonos regulares.
+* **Validar que las medidas ingresadas sean positivas:** Evitar que el programa procese números negativos o cero en las dimensiones.
+* **Permitir realizar varios cálculos sin reiniciar el programa:** Implementar un bucle para que el usuario pueda calcular varias áreas en la misma sesión.
+* **Redondear los resultados:** Limitar la cantidad de decimales en la salida para que los resultados (como el del círculo) se vean más limpios.
+* **Organizar el código utilizando funciones:** Migrar la lógica actual a funciones estructuradas para mejorar la legibilidad y modularidad.
 
 ## Estado del proyecto
 

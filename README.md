@@ -1,6 +1,6 @@
 # Calculadora de Áreas 📐
 
-Programa desarrollado en Python que permite calcular el área de diferentes figuras geométricas mediante un menú interactivo en la consola.
+Programa desarrollado en Python que permite calcular el área de diferentes figuras geométricas mediante un menú interactivo en la consola, permitiendo múltiples consultas en una sola sesión.
 
 ## Descripción
 
@@ -38,11 +38,11 @@ Durante este proyecto practiqué:
 - Operadores aritméticos
 - Uso del módulo `math`
 - Interacción con el usuario mediante un menú
+- Bucles anidados `while`
 
 ### Próximas mejoras
 
 * **Validar que las medidas ingresadas sean positivas:** Evitar que el programa procese números negativos o cero en las dimensiones.
-* **Permitir realizar varios cálculos sin reiniciar el programa:** Implementar un bucle para que el usuario pueda calcular varias áreas en la misma sesión.
 * **Redondear los resultados:** Limitar la cantidad de decimales en la salida para que los resultados (como el del círculo) se vean más limpios.
 * **Organizar el código utilizando funciones:** Migrar la lógica actual a funciones estructuradas para mejorar la legibilidad y modularidad.
 

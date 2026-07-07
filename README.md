@@ -40,7 +40,7 @@ Durante este proyecto practiqué:
 - Interacción con el usuario mediante un menú
 - Bucles anidados `while`
 
-### Próximas mejoras (Para practicar Python)
+### Próximas mejoras
 
 * **Validar que las medidas ingresadas sean positivas:** Evitar que el programa procese números negativos o cero en las dimensiones.
 * **Redondear los resultados:** Limitar la cantidad de decimales en la salida para que los resultados (como el del círculo) se vean más limpios.
